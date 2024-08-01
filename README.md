@@ -4,7 +4,7 @@
 
 # Output
 (![output1](<./src/components/Images/first output.png>))
-(![output2](<./src/components/Images/second output.png))
+(![output2](<./src/components/Images/second output.png>))
 (![output3](<./src/components/Images/Third output.png>))
 
 
